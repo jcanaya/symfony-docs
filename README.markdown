@@ -1,4 +1,4 @@
-Symfony Documentation+
+Symfony Documentation++
 =====================
 
 This documentation is rendered online at https://symfony.com/doc/current/
